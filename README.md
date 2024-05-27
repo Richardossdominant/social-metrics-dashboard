@@ -2,7 +2,7 @@
 
 WELCOME TO MY GIT SOCIAL METRICS DASHBOARD
 
-1. git clone https://github.com/username/social-metrics-dashboard.git
+1. git clone https://github.com/Richardossdominant/social-metrics-dashboard.git
    cd social-metrics-dashboard
 
 2. Install
